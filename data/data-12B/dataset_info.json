@@ -1,0 +1,83 @@
+{
+    "hu2b": {
+    "file_name": "hu-qwen-2B.jsonl",
+    "file_sha1": "",
+    "language": "new",
+    "group_tag": "g1",
+    "columns": {
+        "prompt": "text"
+    }
+},
+    "el2b": {
+    "file_name": "el-qwen-2B.jsonl",
+    "file_sha1": "",
+    "language": "new",
+    "group_tag": "g1",
+    "columns": {
+        "prompt": "text"
+    }
+},
+    "tr2b": {
+    "file_name": "tr-qwen-2B.jsonl",
+    "file_sha1": "",
+    "language": "new",
+    "group_tag": "g1",
+    "columns": {
+        "prompt": "text"
+    }
+},
+    "bn2b": {
+    "file_name": "bn-qwen-2B.jsonl",
+    "file_sha1": "",
+    "language": "new",
+    "group_tag": "g1",
+    "columns": {
+        "prompt": "text"
+    }
+},
+    "hi2b": {
+    "file_name": "hi-qwen-2B.jsonl",
+    "file_sha1": "",
+    "language": "new",
+    "group_tag": "g1",
+    "columns": {
+        "prompt": "text"
+    }
+},
+    "ne2b": {
+    "file_name": "ne-qwen-2B.jsonl",
+    "file_sha1": "",
+    "language": "new",
+    "group_tag": "g1",
+    "columns": {
+        "prompt": "text"
+    }
+},
+    "en50k": {
+    "file_name": "SlimPajama-50K.jsonl",
+    "file_sha1": "",
+    "language": "old",
+    "group_tag": "g0",
+    "columns": {
+        "prompt": "text"
+    }
+},
+    "zh50k": {
+    "file_name": "2023-14_zh_middle_0009-50K.jsonl",
+    "file_sha1": "",
+    "language": "old",
+    "group_tag": "g0",
+    "columns": {
+        "prompt": "text"
+    }
+},
+    "es50k": {
+    "file_name": "es-qwen-50K.jsonl",
+    "file_sha1": "",
+    "language": "old",
+    "group_tag": "g0",
+    "columns": {
+        "prompt": "text"
+    }
+}
+}
