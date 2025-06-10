@@ -16,7 +16,7 @@ Our code is implemented by modifying the [MoE-LPR](https://github.com/NJUNLP/MoE
 
 - The codes under the `tuners/moe/` directory in the peft library;
 - The corresponding model files in the transformers library;
-- The relevant codes in the `data/` or `hparams/` directory of LLaMA Factory.
+- The relevant codes are in the `data/` or `hparams/` directory of LLaMA Factory.
 
 To minimize dependency conflicts, we have prepared two separate environments: one for Qwen1.5 and another for llama-3.2.
 
@@ -83,9 +83,9 @@ The `data/` directory contains the following scripts:
 ### Step 1: Calculate Similarity
 
 
-`similarity/cal-similarity-tokens_dense.py` is used to calculate the similarity for the original dense model. Then an example of allocating new experts is listed in `similarity/llama3.2-3B-G1.xlsx`.
+`similarity/cal-similarity-tokens_dense.py` is used to calculate the similarity for the original dense model. Then, an example of allocating new experts is listed in `similarity/llama3.2-3B-G1.xlsx`.
 
-`similarity/cal-similarity-tokens_moe.py`is used to calculate the similarity for the MoE model.
+`similarity/cal-similarity-tokens_moe.py` is used to calculate the similarity for the MoE model.
 
 
 
@@ -129,7 +129,7 @@ Our codes are based on [MoE-LPR](https://github.com/NJUNLP/MoE-LPR), and we than
 
 
 ### Citation
-If you find this work is useful, please consider cite our paper:
+If you find this work is useful, please consider citing our paper:
 
 ```
 @misc{zhang2025lessbetterefficientmultilingual,
