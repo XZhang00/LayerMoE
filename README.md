@@ -129,7 +129,7 @@ Our codes are based on [MoE-LPR](https://github.com/NJUNLP/MoE-LPR), and we than
 
 
 ### Citation
-If you find this work is useful, please consider citing our paper:
+If you find this work useful, please consider citing our paper:
 
 ```
 @misc{zhang2025lessbetterefficientmultilingual,
